@@ -35,5 +35,5 @@ Final Analyis
 ![election_results](https://user-images.githubusercontent.com/33010018/148883583-962cf88b-f822-4f0a-877b-60787aeb1b5f.png)
 
 
-** Final Summary
+## Final Summary
 This election analysis could also be used for a national election.  In addition to analyzing the county turnout, we could also modify this for city and state turnout.   
