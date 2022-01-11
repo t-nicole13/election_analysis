@@ -31,7 +31,7 @@ Final Analyis
   - Arapahoe: 6.7% (24,801)
 - The county with the largest voter turnout was Denver with 82.8% of the vote and a total number of 306,055 votes cast.
 - After completing our analysis, we wrote our information to a txt file.
-Screen Shot 2022-01-10 at 11.27.37 PM
+file:///Users/tiananicole/Desktop/Screen%20Shot%202022-01-10%20at%2011.27.37%20PM.png
 
 ** Final Summary
 This election analysis could also be used for a national election.  In addition to analyzing the county turnout, we could also modify this for city and state turnout.   
