@@ -16,7 +16,7 @@ For this project, I completed an election audit for The Colorado Board of Electi
 
 ## Resources
 - Data source: election_results.csv
-- Software: Python 3.10.0, Visual Studio Code 1.63.2
+- Software/Language: Python 3.10.0, Visual Studio Code 1.63.2
 
 ## Results/Summary
 ### Candidate Analysis:
